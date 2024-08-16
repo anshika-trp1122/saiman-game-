@@ -1,3 +1,2 @@
 # student 
-my project saiman game
-gi
+my project saiman game.
